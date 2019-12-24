@@ -49,3 +49,10 @@ IoT Sensor System
 - 문제점
   - 하드웨어 수량: OK
   - Artik?, Sampling?
+
+## Firmware
+1. 진동 센서(6): 900MHz, 10분마다 1초 계측, 
+2. 스마트 전류 센서(WF)(3): 2.4GHz, 
+3. 스마트 전류 센서(RMS)(3): 2.4GHz, 
+4. 스마트 환경 센서(3종)(9): 900MHz, 60초마다 데이터 전송, RF 19ch
+5. Multi-Channel Data Logger(1): 5.3kSPS, 전달방법(MQTT? TCP/IP?), 계측 주기
